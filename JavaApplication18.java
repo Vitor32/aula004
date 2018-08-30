@@ -61,7 +61,10 @@ public class JavaApplication18 {
                     
                 System.out.println("dezembro"); 
                     
-                break;                    
+                break;
+                case 13: 
+                    
+                System.out.println("invalido"); 
                     }
     
 }
